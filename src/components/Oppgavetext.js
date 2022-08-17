@@ -5,7 +5,7 @@ export default function ImageAvatar() {
   return (
     <div className='textcontainer'>
         <h1>Norkart</h1>
-        <p>Norkart er kult</p>
+        <p>Praksisprosjekt ikke satt</p>
     </div> 
   );
 }
